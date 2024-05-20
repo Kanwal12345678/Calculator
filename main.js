@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // //creating calculator using condition statement, operator, template literals, inquirer and chalk.
 // importing inquirer and chalk
 import inquirer from "inquirer";
